@@ -1,0 +1,18 @@
+{
+  "name": "map-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitlab.bit-academy.nl:eabe2084-29d7-11ed-81f7-4213e7ee7fac/8c3a5418-e0c9-49eb-a606-54e0c9e54d1d/Bootstrap-9dd45f01-5162b388.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
